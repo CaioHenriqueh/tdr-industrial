@@ -251,13 +251,11 @@ nav.main-nav a:hover {
 
 .mobile-nav a {
   font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--text-dark);
+  font-weight: 600; 
   padding: 12px 0;
   border-bottom: 1px solid var(--gray-bg);
 }
 .mobile-nav a:last-child { border-bottom: none; }
-
 /* ---------- HERO ---------- */
 #hero {
   height: 100vh;
